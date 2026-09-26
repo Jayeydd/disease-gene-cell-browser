@@ -114,4 +114,20 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 | 4 | Does expression make biological sense? | Yes. FBN1 encodes fibrillin-1, the core structural protein of connective tissue microfibrils. Fibroblasts are the main cells that synthesize and secrete this extracellular matrix — hence their highest expression. Smooth muscle cells also reinforce vessel walls but produce less fibrillin-1, explaining their lower signal. Cardiomyocytes and endothelial cells perform specialized contractile or barrier functions and do not serve as primary matrix producers, so their naturally low levels are expected. This pattern directly aligns with Marfan’s clinical features — tissues rich in fibroblast-produced matrix (aorta, heart valves, ligaments) are most vulnerable. |
 | 5 | Can this dataset prove FBN1 causes disease? | No. Expression data show *where* a gene is active but not *that* changes in it cause illness. Causation requires genetic evidence: variants present in affected individuals, absent in healthy controls, demonstrated to alter protein function, and consistent inheritance patterns. This dataset strengthens biological plausibility by confirming FBN1 acts in the right cell types — but plausibility ≠ proof. |
 
+## Part J — Short Reflection
+ **1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?**
+ The Cell Browser showed FBN1 expression across distinct cell types — clearly highlighting fibroblasts as the main source while revealing low levels in smooth muscle cells and pericytes. The Genome Browser displays DNA sequence, gene structure, and variant data but cannot distinguish which cells actually express the gene or at what magnitude.
+ 
+ **2. Why can the same gene have different expression levels among different cell types?**
+ All cells share identical DNA, but each cell type expresses only the genes required for its specialized function. Fibroblasts highly express FBN1 because their role is producing connective tissue matrix; cardiomyocytes and endothelial cells have different primary duties and do not need large amounts of fibrillin-1, so expression remains low.
+
+ **3. Why should you be careful when interpreting zero or very low expression?**
+ Low or absent detection does not always mean the gene is non-functional — it may be expressed only in rare cell subtypes, at specific developmental stages, or under physiological conditions not captured in this dataset. Technical limitations in detection sensitivity can also create false negatives.
+ 
+ **4. Why combine genomic location, variants, and cell-specific expression?**
+ Genomic location identifies the gene and its regulatory regions; variants reveal how changes disrupt protein function; expression data pinpoints exactly which cell types rely on that gene. Together they link cause (DNA change) through mechanism (altered protein) to effect (disease in vulnerable tissues), building a complete biological story.
+
+ **5. Most interesting observation about your assigned gene?**
+ FBN1 was not restricted to fibroblasts — it also appeared at lower levels in smooth muscle cells and pericytes, showing that related cell types cooperate to maintain vessel wall integrity. This broader expression pattern makes biological sense and helps explain why Marfan syndrome affects multiple tissues, not just one cell type.
+
 
