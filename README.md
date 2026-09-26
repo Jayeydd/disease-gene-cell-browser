@@ -40,3 +40,15 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 
 **Screenshot 2 — UMAP Cell Map:**
 ![UMAP Cell Map](images/02_umap_map.jpg)
+
+---
+ ## Part D — FBN1 Gene Expression
+ | Question | Answer |
+ |---|---|
+ | a. Assigned gene symbol | FBN1 |
+ | b. Dataset used | Heart Cell Atlas — Global (486k cells) |
+ | c. Expression pattern | Restricted — not uniformly expressed across all cells; concentrated in specific clusters |
+ | d. Strongest expression clusters | Fibroblast cluster (highest levels — orange/brown coloring) |
+ | e. Low/no expression clusters | Endothelial cells, Atrial/Ventricular Cardiomyocytes, Myeloid, Lymphoid — mostly light blue, near-zero detection |
+ **Screenshot 3 — FBN1 Expression Map:**
+ ![FBN1 Expression](images/03_fbn1_expression.jpg)
