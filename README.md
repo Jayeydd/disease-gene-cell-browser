@@ -38,9 +38,6 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 | c. Clusters represent | Groups of cells with similar gene-expression profiles — corresponding to specific cell types or functional states |
 | d. Three visible cell-type labels | Fibroblast, Endothelial, Smooth muscle cells |
 
-**Screenshot 2 — UMAP Cell Map:**
-![UMAP Cell Map](images/02_umap_map.jpg)
-
 ---
  ## Part D — FBN1 Gene Expression
  | Question | Answer |
@@ -50,7 +47,7 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
  | c. Expression pattern | Restricted — not uniformly expressed across all cells; concentrated in specific clusters |
  | d. Strongest expression clusters | Fibroblast cluster (highest levels — orange/brown coloring) |
  | e. Low/no expression clusters | Endothelial cells, Atrial/Ventricular Cardiomyocytes, Myeloid, Lymphoid — mostly light blue, near-zero detection |
- **Screenshot 3 — FBN1 Expression Map:**
+ **Screenshot 2 — FBN1 Expression Map:**
  ![FBN1 Expression](images/03_fbn1_expression.jpg)
 
  ---
