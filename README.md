@@ -67,3 +67,15 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 **Screenshot 3 — Selected Fibroblast Cluster & FBN1 Expression:**
 ![FBN1 Cell Types](images/03_cell_types_expression.jpg)
 
+---
+## Part F — Expression Plot (Dot Plot)
+
+| Question | Answer |
+|---|---|
+| a. Selected cells / cluster examined | Fibroblast cluster |
+| b. Expression compared to other clusters | FBN1 shows the highest expression in fibroblasts — both average level (color intensity) and percentage of cells expressing it (dot size) are far greater than in any other cell type. Smooth muscle cells and pericytes show faint signal; all other clusters are near baseline. |
+| c. Additional insight from the plot | The UMAP map shows spatial distribution; the dot plot quantifies **both expression magnitude and prevalence**. It reveals that FBN1 is not just high in a few cells — it is a consistent feature of fibroblasts. This supports its biological role: fibrillin-1 is a core extracellular matrix protein produced broadly by connective tissue–making cells, not by other heart cell types. |
+
+**Screenshot 4 — FBN1 Dot Plot by Cell Type:**
+![FBN1 Dot Plot](images/04_expression_plot.jpg)
+
