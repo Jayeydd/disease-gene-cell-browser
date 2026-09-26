@@ -103,5 +103,15 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 | d. Which appears more broadly expressed | FBN1 — highest in fibroblasts but also shows faint, above-baseline expression in Smooth_muscle_cells and Pericytes |
 | e. Biological meaning of the difference | Marker genes such as ABCA8 act as highly specific molecular signatures — their expression is confined almost entirely to one cell type, making them reliable identifiers. Disease-associated genes like FBN1 encode functional proteins that can operate across related cell populations. FBN1 produces fibrillin-1 for connective tissue matrix — fibroblasts are the main producers, but smooth muscle cells and pericytes also contribute to vessel wall structure, hence the broader signal. This reveals: marker genes reflect *cell identity*, while disease genes reflect *biological function*, which may span cooperating cell types. |
 
+---
+## Part I — Connect Cell Browser with Genome Browser
+
+| # | Question | Answer |
+|---|---|---|
+| 1 | Chromosome location of FBN1 | Chromosome 15, long arm — band 15q21.1 |
+| 2 | Disease-associated variant examined | FBN1 pathogenic variants (missense, frameshift, splice-site, or premature stop codons) leading to abnormal or reduced fibrillin-1 → Marfan syndrome |
+| 3 | Cell types with FBN1 expression | Highest in fibroblasts; lower but detectable in smooth muscle cells and pericytes; near absent in cardiomyocytes, endothelial cells, and immune cells |
+| 4 | Does expression make biological sense? | Yes. FBN1 encodes fibrillin-1, the core structural protein of connective tissue microfibrils. Fibroblasts are the main cells that synthesize and secrete this extracellular matrix — hence their highest expression. Smooth muscle cells also reinforce vessel walls but produce less fibrillin-1, explaining their lower signal. Cardiomyocytes and endothelial cells perform specialized contractile or barrier functions and do not serve as primary matrix producers, so their naturally low levels are expected. This pattern directly aligns with Marfan’s clinical features — tissues rich in fibroblast-produced matrix (aorta, heart valves, ligaments) are most vulnerable. |
+| 5 | Can this dataset prove FBN1 causes disease? | No. Expression data show *where* a gene is active but not *that* changes in it cause illness. Causation requires genetic evidence: variants present in affected individuals, absent in healthy controls, demonstrated to alter protein function, and consistent inheritance patterns. This dataset strengthens biological plausibility by confirming FBN1 acts in the right cell types — but plausibility ≠ proof. |
 
 
