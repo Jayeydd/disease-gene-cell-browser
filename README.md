@@ -52,3 +52,18 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
  | e. Low/no expression clusters | Endothelial cells, Atrial/Ventricular Cardiomyocytes, Myeloid, Lymphoid — mostly light blue, near-zero detection |
  **Screenshot 3 — FBN1 Expression Map:**
  ![FBN1 Expression](images/03_fbn1_expression.jpg)
+
+ ---
+## Part E — Cell Types Expressing FBN1
+
+| Question | Answer |
+|---|---|
+| a. Strongest expression cluster | Fibroblasts — selected and clearly the most prominent cluster with FBN1 activity |
+| b. Second detectable cluster | Smooth_muscle_cells / Pericytes — visible but lower signal |
+| c. Low/undetected clusters | Endothelial, Atrial/Ventricular Cardiomyocytes, Myeloid, Lymphoid — faint/near baseline |
+| d. Expression pattern | Highly cell-type restricted — concentrated in fibroblasts that build connective tissue |
+| e. Biological explanation | FBN1 produces fibrillin-1, the main structural protein in connective tissue. Fibroblasts are the primary cells that synthesize and secrete this extracellular matrix — so they show the highest expression. Smooth muscle cells also support vessel walls but at lower levels. Cardiomyocytes and endothelial cells have different specialized functions and do not produce significant fibrillin-1. |
+
+**Screenshot 3 — Selected Fibroblast Cluster & FBN1 Expression:**
+![FBN1 Cell Types](images/03_cell_types_expression.jpg)
+
