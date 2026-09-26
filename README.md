@@ -79,3 +79,16 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 **Screenshot 4 — FBN1 Dot Plot by Cell Type:**
 ![FBN1 Dot Plot](images/04_expression_plot.jpg)
 
+---
+## Part G — Cluster Marker Genes
+
+| Question | Answer |
+|---|---|
+| a. Cluster examined | Fibroblast |
+| b. Top 3 marker genes | ABCA8, ABCA6, BICC1 |
+| c. Definition of marker genes | Genes that are significantly more highly expressed in one cell type compared to all others — they serve as molecular identifiers for that cell population |
+| d. Biological interpretation | The top markers confirm the fibroblast identity of this cluster. Fibroblasts are the primary cells responsible for producing and maintaining the extracellular connective tissue matrix — the same biological process where FBN1 (fibrillin-1) functions. This independently verifies that FBN1 is expressed in the correct cell type for its structural role. |
+
+**Screenshot 5 — Fibroblast Marker Genes:**
+![Marker Genes](images/05_marker_genes.jpg)
+
