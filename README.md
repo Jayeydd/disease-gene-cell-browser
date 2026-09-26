@@ -27,3 +27,16 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 
 **Screenshot 1 — Dataset Selected:**
 ![Dataset Info](images/01_dataset.jpg)
+
+---
+## Part C — Understand the Cell Map
+
+| Question | Answer |
+|---|---|
+| a. Visualization type | UMAP (Uniform Manifold Approximation and Projection) |
+| b. One dot represents | A single individual cell from the adult human heart |
+| c. Clusters represent | Groups of cells with similar gene-expression profiles — corresponding to specific cell types or functional states |
+| d. Three visible cell-type labels | Fibroblast, Endothelial, Smooth muscle cells |
+
+**Screenshot 2 — UMAP Cell Map:**
+![UMAP Cell Map](images/02_umap_map.jpg)
