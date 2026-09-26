@@ -92,3 +92,16 @@ FBN1 encodes fibrillin-1, a major structural component of extracellular microfib
 **Screenshot 5 — Fibroblast Marker Genes:**
 ![Marker Genes](images/05_marker_genes.jpg)
 
+---
+## Part H — Compare Assigned Gene with Marker Gene
+
+| Item | Answer |
+|---|---|
+| a. Assigned disease gene | FBN1 |
+| b. Marker gene selected | ABCA8 (top fibroblast marker) |
+| c. Which shows more restricted pattern | ABCA8 — expression is nearly exclusive to fibroblasts; no meaningful signal detected in any other cell cluster |
+| d. Which appears more broadly expressed | FBN1 — highest in fibroblasts but also shows faint, above-baseline expression in Smooth_muscle_cells and Pericytes |
+| e. Biological meaning of the difference | Marker genes such as ABCA8 act as highly specific molecular signatures — their expression is confined almost entirely to one cell type, making them reliable identifiers. Disease-associated genes like FBN1 encode functional proteins that can operate across related cell populations. FBN1 produces fibrillin-1 for connective tissue matrix — fibroblasts are the main producers, but smooth muscle cells and pericytes also contribute to vessel wall structure, hence the broader signal. This reveals: marker genes reflect *cell identity*, while disease genes reflect *biological function*, which may span cooperating cell types. |
+
+
+
